@@ -1,0 +1,14 @@
+{
+  "basketballLaunchBall": "kīloi i ke kinipōpō hou",
+  "basketballLaunchBallTooltip": "kīloi i ke kinipōpō e pāʻani",
+  "basketballSetPaddle": "hōʻoia lima",
+  "basketballSetPaddleSpeedFast": "hoʻopaʻa i ka māmā holo o ka lima wikiwiki",
+  "basketballSetPaddleSpeedNormal": "hoʻopaʻa i ka māmā holo o ka lima maʻamau",
+  "basketballSetPaddleSpeedRandom": "hoʻopaʻa i ka māmā holo o ka lima koho wale",
+  "basketballSetPaddleSpeedSlow": "hoʻopaʻa i ka māmā holo o ka lima mālie",
+  "basketballSetPaddleSpeedTooltip": "E hoʻopaʻa ana i ka māmā holo o ka lima",
+  "basketballSetPaddleSpeedVeryFast": "e hoʻopaʻa i ka māmā holo lima wikiwiki loa",
+  "basketballSetPaddleSpeedVerySlow": "e hoʻopaʻa i ka māmā holo lima mālie loa",
+  "basketballWhenPaddleCollided": "ke kuʻi ke kinipōpō i ka lima",
+  "bounceBall": "lele i ke kinipōpō"
+}

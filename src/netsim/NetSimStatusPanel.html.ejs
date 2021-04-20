@@ -1,0 +1,16 @@
+<%
+var i18n = require('@cdo/netsim/locale');
+%>
+<div class="content-wrap">
+  <% if (myHostname) { %>
+  <p>My hostname: <%= myHostname %></p>
+  <% } %>
+
+  <% if (myAddress) { %>
+  <p>My address: <%= myAddress %></p>
+  <% } %>
+
+  <% if (shareLink) { %>
+  <p><a href="<%= shareLink %>"><%= i18n.shareThisNetwork() %></a></p>
+  <% } %>
+</div>

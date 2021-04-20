@@ -1,0 +1,21 @@
+{
+  "at": "à",
+  "atFlower": "à a fiore",
+  "atHoneycomb": "à u bugnu",
+  "collect": "culletà",
+  "collectiblePresent": "ci sò i tesori",
+  "collectorCollectTooltip": "Culletà un oghjettu",
+  "collectorCollectedEverything": "Felicitazioni! Hai raccolta {count, plural, one {un oghjettu} other {tutti i # oghetti}}!",
+  "elseCode": "osinnò",
+  "fillSquare": "empie u quadratu",
+  "honey": "fà u mele",
+  "honeyAvailable": "mele",
+  "honeyTooltip": "Fà u melle incù u nettaru",
+  "moveBackward": "rinculà",
+  "moveForward": "avanzà",
+  "nectar": "ottene nettaru",
+  "nectarRemaining": "nettaru",
+  "nectarTooltip": "Ottene nettaru di un fiore",
+  "turnLeft": "girà à manca",
+  "turnRight": "girà à diritta"
+}

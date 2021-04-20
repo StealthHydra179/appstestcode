@@ -1,0 +1,9 @@
+/src/**/*.min.js*
+/src/code-studio/vendor/**/*.js
+/src/third-party/**/*.js
+
+/lib
+/build
+node_modules
+
+/test/interpreter/test262

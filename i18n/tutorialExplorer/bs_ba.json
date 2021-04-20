@@ -1,0 +1,20 @@
+{
+  "startButton": "Počni",
+  "filterSortByDisplayWeight": "Preporučeno",
+  "filterStudentExperience": "Iskustvo učenika",
+  "filterStudentExperienceBeginner": "Početnik",
+  "filterStudentExperienceComfortable": "Udoban",
+  "filterStudentExperienceExperienced": "Iskusan",
+  "filterTopics": "Teme",
+  "filterTopicsScience": "Nauka",
+  "filterTopicsMath": "Matematika",
+  "filterTopicsHistory": "Društvene nauke",
+  "filterLength": "Dužina",
+  "filterLength1Hour": "Jedan sat",
+  "filterProgrammingLanguage": "Jezik",
+  "filterProgrammingLanguageBlocks": "Blokovi",
+  "filterProgrammingLanguageOther": "Ostalo",
+  "tutorialDetailInternationalLanguages": "Jezici",
+  "tutorialDetailStandards": "Standardi",
+  "tutorialDetailDisabled": "Ovaj tutorijal je privremeno nedostupan."
+}

@@ -1,0 +1,19 @@
+{
+  "addPoints10": "yengeza amaphuzu ayishumi",
+  "addPoints50": "yengeza amaphuzu angamashumi amahlanu",
+  "addPoints100": "yengeza amaphuzu ayikhulu",
+  "addPoints300": "yengeza amaphuzu angamakhulu amathathu",
+  "addPoints1000": "yengeza amaphuzu ayinkulungwane",
+  "catActions": "Izenzo",
+  "catLogic": "Ngokulandelana",
+  "catMath": "Izibalo",
+  "catText": "Umbhalo",
+  "continue": "Qhubeka",
+  "elseCode": "okunye",
+  "moveForward": "qubekela phambili",
+  "moveBackward": "qubekela emuva",
+  "no": "Cha",
+  "repeatDo": "yenza",
+  "saySpriteChoices_17": "Cha",
+  "showTitleScreenText": "Umbhalo"
+}
