@@ -96,9 +96,9 @@ def _create_lang_file(author, lang, output_dir):
     Raises:
         IOError: An error occurred while opening or writing the file.
     """
-    lang_file_name = os.path.join(os.curdir, output_dir, lang + '.json')
+    lang_file_name = os.path.join(os.curdir, output_dir, f'{lang}.json')
     lang_file = codecs.open(lang_file_name, 'w', 'utf-8')
-    print 'Created file: ' + lang_file_name
+    lang_file_name = os.path.join(os.curdir, output_dir, lang + '.json')
     # string.format doesn't like printing braces, so break up our writes.
     lang_file.write('{\n    "@metadata": {')
     lang_file.write("""
